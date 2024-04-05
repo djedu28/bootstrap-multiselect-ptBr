@@ -3,6 +3,7 @@
  *
  * Apache License, Version 2.0:
  * Copyright (c) 2012 - 2022 David Stutz
+ * Tradutor @DjEdu28 - 2024
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not
  * use this file except in compliance with the License. You may obtain a
@@ -422,7 +423,7 @@
             maxHeight: null,
             includeSelectAllOption: false,
             includeSelectAllIfMoreThan: 0,
-            selectAllText: ' Select all',
+            selectAllText: ' Selecionar tudo',
             selectAllValue: 'multiselect-all',
             selectAllName: false,
             selectAllNumber: true,
@@ -433,22 +434,22 @@
             enableClickableOptGroups: false,
             enableCollapsibleOptGroups: false,
             collapseOptGroupsByDefault: false,
-            filterPlaceholder: 'Search',
+            filterPlaceholder: 'Procurar',
             // possible options: 'text', 'value', 'both'
             filterBehavior: 'text',
             includeFilterClearBtn: true,
             preventInputChangeEvent: false,
-            nonSelectedText: 'None selected',
-            nSelectedText: 'selected',
-            allSelectedText: 'All selected',
-            resetButtonText: 'Reset',
+            nonSelectedText: 'Nenhum selecionado',
+            nSelectedText: 'selecionado',
+            allSelectedText: 'Todos selecionado',
+            resetButtonText: 'Limpar',
             numberDisplayed: 3,
             disableIfEmpty: false,
             disabledText: '',
             delimiterText: ', ',
             includeResetOption: false,
             includeResetDivider: false,
-            resetText: 'Reset',
+            resetText: 'Limpar',
             indentGroupOptions: true,
             // possible options: 'never', 'always', 'ifPopupIsSmaller', 'ifPopupIsWider'
             widthSynchronizationMode: 'never',
